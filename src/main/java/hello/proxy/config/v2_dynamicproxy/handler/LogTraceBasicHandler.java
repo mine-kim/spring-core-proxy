@@ -1,4 +1,4 @@
-package hello.proxy.app.config.v2_dynamicproxy.handler;
+package hello.proxy.config.v2_dynamicproxy.handler;
 
 import hello.proxy.app.v2.OrderControllerV2;
 import hello.proxy.trace.TraceStatus;

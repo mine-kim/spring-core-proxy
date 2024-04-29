@@ -1,6 +1,6 @@
-package hello.proxy.app.config.v3_proxyfactory;
+package hello.proxy.config.v3_proxyfactory;
 
-import hello.proxy.app.config.v3_proxyfactory.advice.LogTraceAdvice;
+import hello.proxy.config.v3_proxyfactory.advice.LogTraceAdvice;
 import hello.proxy.app.v2.OrderControllerV2;
 import hello.proxy.app.v2.OrderRepositoryV2;
 import hello.proxy.app.v2.OrderServiceV2;

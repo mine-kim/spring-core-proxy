@@ -1,6 +1,6 @@
-package hello.proxy.app.config.v3_proxyfactory;
+package hello.proxy.config.v3_proxyfactory;
 
-import hello.proxy.app.config.v3_proxyfactory.advice.LogTraceAdvice;
+import hello.proxy.config.v3_proxyfactory.advice.LogTraceAdvice;
 import hello.proxy.app.v1.*;
 import hello.proxy.trace.logtrace.LogTrace;
 import lombok.extern.slf4j.Slf4j;
